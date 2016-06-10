@@ -1,0 +1,9 @@
+{
+	"title":"Hybride, mobiele conferentie-applicatie voor de CTG Experience Day met Ionic 2, Angular 2 en TypeScript",
+	"author": "Michiel Mulder",
+	"plugins"       : ["tocstyles"],
+	"pluginConfig":
+  	{
+	    "tocstyles" : [ "upper-roman", "decimal", "lower-alpha" ]
+  	}
+}

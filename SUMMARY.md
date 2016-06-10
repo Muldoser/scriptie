@@ -1,4 +1,26 @@
 # Inhoudsopgave
 
-* [Introductie](README.md)
+* [Abstract](README.md)
+* [Dankwoord](Dankwoord/README.md)
+* [Inhoudsopgave](SUMMARY.md)
 
+* [I. Introductie](Introductie/README.md)
+    * [1.1 Stagebedrijf](Introductie/README.md)
+    * [1.2 Situering](Introductie/README.md)
+    * [1.3 Opgave](Introductie/README.md#opgave)
+
+* [II. Technisch](Technisch/README.md)
+    * [2.1 Technologie en tools](Technisch/README.md#technologie-en-tools)
+        *  [2.1.1 Technologie](Technisch/README.md#technologie)
+        *  [2.1.2 Tools](Technisch/README.md#tools)
+    * [2.2 Ontwikkeling](Technisch/README.md#ontwikkeling)
+        * [2.2.1 Inleiding](Technisch/README.md#ontwikkelproces-inleiding)
+        * [2.2.2 Onderzoek](Technisch/README.md#ontwikkelproces-onderzoek)
+        * [2.2.3 Setup development environment](Technisch/README.md#ontwikkelproces-setup)
+        * [2.2.4 Navigatie en design](Technisch/README.md#ontwikkelproces-navigatie)
+        * [2.2.5 Lokale opslag](Technisch/README.md#ontwikkelproces-opslag)
+    * [2.3 Testing](Technisch/README.md#testing)
+* [III. Conclusie](Conclusie/README.md)
+* [IV. Uitbreidingen en toekomst](Uitbreidingen/README.md)
+* [V. Bibliografie](Bibliografie/README.md)
+* [VI. Glossary](GLOSSARY.md)
