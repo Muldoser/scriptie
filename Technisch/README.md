@@ -269,7 +269,7 @@ Deze plugin komt mede in de *package.json* te staan. Hij is ook bruikbaar door a
 
 * **Twitter**
 
-Zie [IV. Uitbreidingen en toekomst](../Uitbreidingen/README.md#twitter)
+Zie [IV. Uitbreidingen en toekomst](../Conclusie/README.md#twitter)
 
 
 * **Login**
@@ -298,3 +298,22 @@ In de constructor wordt dit toegepast. Let op de `checkFirstCharacterValidator` 
 
 Aangezien er geen toegang beschikbaar is tot de servers en database in de Verenigde Staten en de applicatie ook bedoeld is om offline te werken, moeten we zien dat de data van de evaluatieformulieren lokaal wordt opgeslagen. Hiervoor gebruiken we LokiJS als lokale database.
 
+## 2.3 Testing
+
+Tijdens week 7 van de stageperiode zijn er een aantal nieuwe werknemers begonnen bij CTG in het Testing-team. Hiervoor is een testklas georganiseerd waarbij de nieuwe testers een basisopleiding genoten voor de tools van CTG. Na deze opleiding volgt een projectweek. Hiervoor gebruikt CTG interne projecten, waardoor ze bij dit project kwamen. De testers hebben dus enkele testcases opgesteld en gezocht naar bugs in de interface van de Experience Day applicatie. Belangrijk om hier te melden is dat de applicatie getest werd aan de hand van de Ionic View app, omdat er geen mogelijkheid was om de applicatie via de Play Store en de App Store te deployen. Op deze manier kon de app echter wel getest worden op zowel Android als iOS. Op dit moment werd Windows Phone nog niet volledig ondersteund door Ionic 2. Via de Ionic View app is het mogelijk dat er zaken anders werken dan de app die native draait. Enkele van deze defecten hebben dit aangetoond na controle met de native app. Dit komt omdat er bij het runnen in de Ionic View  app, er werkelijk een applicatie in een applicatie draait.
+
+Uit de tests kwamen volgende defecten voor:
++ Bij het drukken op de clear button in de evaluatieformulieren werden alle vragen rood gemarkeerd. (*Opgelost*)
++ Bij het selecteren van de waarde "good" op de vraag "How would you rate this sessions difficulty?" werd de waarde "average" in het licht mee gekleurd. (*Nooit kunnen reproduceren*)
++ Bij het scrollen met het toetsenbord open in de evaluatieformulieren, verdwijnt de toolbar. (*Nooit kunnen reproduceren*)
++ In het evaluatieformulier met het toetsenbord open, wanneer er op de clear button geklikt wordt verschuift het scherm naar beneden en weer naar boven terwijl het toetsenbord verdwijnt. (*Nooit kunnen reproduceren*)
++ Bij het klikken op Speakers in het menu opent er een lege lijst. (*Opgelost*)
++ Bij het klikken op de back button van uit een Speaker Detail page begint de app terug te keren, maar de 2 pages smelten samen. (*Nooit kunnen reproduceren*)
++ Wanneer er met de filters gespeeld wordt bij de Sessions, beginnen deze uit zichzelf de bewegen. (*Opgelost*)
+
+Verder zijn er nog enkele defecten die fout ge&iuml;nterpreteerd werden. Veel van de defecten konden niet gereproduceerd worden in de native app. Wanneer vergeleken met dezelfde scenario's binnen de Ionic View app, kon er gezegd worden dat vele bugs veroorzaakt werden door delay binnen deze app.
+
+
+## 2.4 Mobile Web Klas
+
+Enkele weken na de testklas zijn er ook enkele nieuwe werknemers bij het Mobile Web team aangesloten. Hierbij is vervolgens ook een mobile web klas georganiseerd. Deze opleiding werd gespreid over 3 weken tijd met een project in de vierde week. In deze drie weken werden vele lessen gegeven over vele verschillende topics. De relevantie hier is de les en presentatie die uit dit project zijn voort gekomen, als gevolg van de verzamelde kennis en vaardigheden tijdens het stageproject. Het hoofdonderwerp van de les was Ionic 2. (Feedback van de 'studenten' bij [conclusie](../Conclusie/README.md#feedback))

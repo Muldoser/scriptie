@@ -49,12 +49,14 @@ Dit project zal gebruik maken van nieuwere technologie. De bestaande applicatie 
 #### 1.3.4 Technologie
 Zowel voor onderzoeksdoeleinden in verband met de stage als voor CTG is het interessant om nieuwe technologie te gebruiken voor de applicatie. Door gebruik te maken van nieuwe *frameworks* laat CTG zien aan zijn klanten dat men gebruik maakt van de nieuwste beschikbare elementen op de markt. Verder is het tijdens de stage een buitenkans om *hands-on* ervaring op te doen met deze nieuwigheden en er veel over te leren. 
 
-De nieuwe technologie&euml;n waarvoor gekozen is, zijn Ionic 2, gecombineerd met Angular 2 en Typescript. In het hoofdstuk [Technisch](../Technisch/README.md) hierover meer.
+De nieuwe technologie&euml;n waarvoor gekozen is, zijn Ionic 2, gecombineerd met Angular 2 en Typescript. In het hoofdstuk [2.1.1 Technologie](../Technisch/README.md#technologie) hierover meer.
 
 #### 1.3.5 Evaluatie
 Een belangrijk element van de applicatie zal een evaluatieformulier zijn. Dit formulier is erop gericht informatie te verzamelen over het verloop van de sessies en hoe de bezoekers deze ervaren hebben. Deze evaluaties zullen gebruikt worden om feedback te verzamelen en zo de toekomstige Experience Days mogelijk te verbeteren.
 
 In vorige edities van de Experience Day werden deze formulieren nog op papier afgedrukt, uitgedeeld en verzameld in een brievenbus. In een IT Service bedrijf zijn de middelen - indien beschikbaar - aanwezig om dit te voorzien in een digitale vorm. Het is positief om aan klanten en partners aan te tonen dat zij dit kunnen verwezenlijken op een dergelijke wijze.
+
+<div id="vereisten-in-scope"></div>
 
 #### 1.3.6 Vereisten in scope
 Om een richtlijn te hebben zijn er toch enkele *requirements* opgesteld en vastgelegd. Hieronder de vereisten die vallen binnen de scope van de stageperiode:

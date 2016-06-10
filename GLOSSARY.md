@@ -1,4 +1,4 @@
-# VI. Glossary
+# V. Glossary
 
 **Agile development**
 : Dit is een manier voor projectontwikkeling waarbij de requirements en resultaten flexibel opgesteld worden en gemakkelijk kunnen worden aangepast, waardoor het project minder vatbaar is voor onvoorziene omstandigheden. Hierbij wordt er gestreefd naar regelmatige resultaten in afgebakende blokken.
